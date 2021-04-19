@@ -31,4 +31,8 @@ export default {
 };
 </script>
 
-<style></style>
+<style scoped>
+.menu-list a.is-active {
+  background-color: #00d1b2;
+}
+</style>
